@@ -1,6 +1,6 @@
 # 📚 Biblioteca Tech
 
-Bem-vindo ao repositório **Biblioteca Tech do Kali** — um espaço cuidadosamente montado para armazenar, compartilhar e consultar uma vasta coleção de livros voltados para o **universo da tecnologia**, **programação**, **desenvolvimento de software**, **infraestrutura**, **segurança da informação** e muito mais.
+Bem-vindo ao repositório **Biblioteca Tech**  — um espaço cuidadosamente montado para armazenar, compartilhar e consultar uma vasta coleção de livros voltados para o **universo da tecnologia**, **programação**, **desenvolvimento de software**, **infraestrutura**, **segurança da informação** e muito mais.
 
 ## 🧠 O que você vai encontrar aqui?
 
